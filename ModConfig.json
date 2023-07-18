@@ -1,0 +1,24 @@
+{
+  "ModId": "p5s.uiToggler",
+  "ModName": "UI Toggler",
+  "ModAuthor": "AnimatedSwine37",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Lets you toggle all UI elements with the press of a button",
+  "ModDll": "p5s.uiToggler.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p5s.uiToggler.dll",
+  "ModR2RManagedDll64": "x64/p5s.uiToggler.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p5s.uiToggler.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks",
+    "Reloaded.Memory.SigScan.ReloadedII"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": ["game.exe"],
+  "ProjectUrl": ""
+}
