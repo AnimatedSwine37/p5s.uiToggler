@@ -43,6 +43,10 @@
       "RepositoryName": "p5s.uiToggler",
       "UseReleaseTag": true,
       "AssetFileName": "Mod.zip"
+    },
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 457047
     }
   },
   "IsUniversalMod": false,
